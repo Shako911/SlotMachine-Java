@@ -14,8 +14,8 @@ public class Main {
         int balance = 100;
         int bet;
         String[] row;
-        int payout = 0;
-        String playAgain = "Y";
+        int payout;
+        String playAgain;
 
 
         while (balance > 0) {
